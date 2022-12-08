@@ -27,7 +27,7 @@ all_BA_BA_connections = list(BA_to_BA_hurdle_data['BA_to_BA'])
 
 Years = [2019]
 
-NODE_NUMBER = [75,100,125,150,175,200,225,250,275,300]
+NODE_NUMBER = [75,100,125]#,150,175,200,225,250,275,300]
 # NODE_NUMBER = [300]
 
 # UC_TREATMENTS = ['_simple','_coal']
